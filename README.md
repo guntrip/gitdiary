@@ -35,4 +35,4 @@ This uses the GitHub API's [Contents functions](https://developer.github.com/v3/
 
 ### Testing
 
-For easier editing and debugging, you'll find `testing.html` with a big friendly button to run through the script. You'll need to follow the instructions within to create the `credentials.js` file if you want to keep your token out of gitdiary.js.
+For easier editing and debugging, you'll find `testing.html` with a big friendly button to run through the script. You'll need to follow the instructions within to create the `credentials.js` file if you want to keep your token out of `gitdiary.js`.
