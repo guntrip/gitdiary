@@ -10,7 +10,7 @@ A new file is created for each month in the root of your repository in this form
 `2016-09.md`
 `2016-10.md`
 
-Within each file, diary entries are added with the newest at the top, grouped into days.
+Within each file, diary entries are added with the newest at the top, grouped into days. There's an [example file here](https://github.com/stevecat/gitdiary/blob/master/example.md).
 
 ### Usage
 
