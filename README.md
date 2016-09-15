@@ -25,7 +25,7 @@ var user  = "" // GitHub account hosting the repository
 var repo  = "" // Name of the repository
 ```
 
-To turn the script into a bookmarklet, first minimise it using a service such as [JSCompress](https://jscompress.com/); this will remove the comments and new lines. You can then append `javascript: ` and add it as a bookmark.
+To turn the script into a bookmarklet, first minimise it using a service such as [JSCompress](https://jscompress.com/); this will remove the comments and new lines. You can then prepend `javascript: ` and add it as a bookmark.
 
 When you click on the bookmarklet, a JavaScript prompt() will ask you for the entry. Clicking 'OK' will show you the entry and ask you to confirm. If you click 'Cancel' on the confirmation, you'll be able to edit the entry. Clicking 'OK' will add it to your repository using your system's local time and date.
 
